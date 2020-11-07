@@ -1,7 +1,7 @@
 <h1>Instructions</h1>
 
 <h3>Select files: </h3>
-Please input the file pathname: DISK:\FOLDER\BankAccountSearch\src\com\company\a1.txt
+Please input the file pathname: DISK:\FOLDER\BankAccountSearch\src\com\company\a1.txt <br>
 Enter fullpath for logs file: DISK:\FOLDER\BankAccountSearch\src\com\company\logs.txt
 
 <h3>To Search: </h3>
